@@ -23,43 +23,6 @@ Unsaveable Damage
 
 </details>
 
-<details>
-<summary>
-Bury
-</summary>
-
-### Species Abilities
-
-### Spells
-+ Swamp Fever (Swamp Stalkers)
-+ Exhume (Undead)
-+ Soiled Ground (Death)
-
-### SAIs
-
-+ Crush (Artifact)
-+ Firebreath (Amazon)
-+ Flame (Coral Elf, Amazon, Firewalker)
-+ Flaming Arrow (Scalder, Dracolem)
-+ Gore (Feral)
-+ Sneak Attack (Eldarim, Relic) (Dragonkin only)
-+ Stomp (Dwarf)
-+ Swallow (Coral Elf, Goblin, Frostwing)
-
-</details>
-
-
-<details>
-<summary>
-Unbury
-</summary>
-
-### Species Abilites
-
-+ Winter's Fortitude (Frost Wings)
-
-</details>
-
 
 <details>
 <summary>
@@ -123,6 +86,9 @@ Resurrect
 + Elemental Relic (Relic)
 + Regenerate (Goblin)
 
+### Other
++ 8th Face (City)
+
 </details>
 
 
@@ -151,6 +117,50 @@ Promote
 
 <details>
 <summary>
+Bury
+</summary>
+
+### Spells
++ Swamp Fever (Swamp Stalkers)
++ Exhume (Undead)
++ Soiled Ground (Death)
+
+### SAIs
+
++ Crush (Artifact)
++ Firebreath (Amazon)
++ Flame (Coral Elf, Amazon, Firewalker)
++ Flaming Arrow (Scalder, Dracolem)
++ Gore (Feral)
++ Sneak Attack (Eldarim, Relic) (Dragonkin only)
++ Stomp (Dwarf)
++ Swallow (Coral Elf, Goblin, Frostwing)
+
+### Other
++ 8th Face (Temple)
+
+</details>
+
+
+<details>
+<summary>
+Unbury
+</summary>
+
+### Species Abilites
+
++ Winter's Fortitude (Frost Wings)
+
+### Other
+
++ 8th Face (Grove)
+
+</details>
+
+
+
+<details>
+<summary>
 Prevent Rolling
 </summary>
 
@@ -172,6 +182,7 @@ Prevent Rolling
 <summary>
 Retaliate
 </summary>
+
 
 ### Species Abilities
 
@@ -228,16 +239,12 @@ Swap Dying Units
 + Accelerated Growth (Treefolk)
 + Escape Portal (Gold Dracolem)
 
-### SAIs
-
 </details>
 
 <details>
 <summary>
 Force Retreat
 </summary>
-
-### Species Abilities
 
 ### Spells
 
